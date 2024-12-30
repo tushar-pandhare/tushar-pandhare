@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif; color: #2E8B57; font-size: 3.5em; font-weight: bold;">
-  Hi there! 👋 I'm <span style="color: #D2691E;">Tushar Pandhare</span>
+<span style="color: #D2691E;">⚡Tushar Pandhare</span>
 </h1>
 
 <div align="center">
