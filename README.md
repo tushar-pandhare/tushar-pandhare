@@ -3,13 +3,13 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=50&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;Competitive+Programmer;Web+Developer;Machine+Learning+Enthusiast;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=50&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;Competitive+Programmer;Web+Developer;Machine+Learning+Enthusiast;Problem+Solver" alt="Typing Animation" style="max-width: 100%;" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif" alt="Particle Animation" width="900px" />
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif" alt="Particle Animation" width="800px" />
 </div>
 
 ---
@@ -51,9 +51,10 @@
   📈 GitHub Stats
 </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 75%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical" alt="GitHub Streak" style="width: 75%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-pandhare&layout=compact&theme=radical" alt="Top Languages" style="width: 75%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical&hide_title=true&hide=prs" alt="GitHub Stats" width="400px" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical" alt="GitHub Streak" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-pandhare&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="400px" />
 </div>
 
 ---
@@ -69,24 +70,24 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Impact', sans-serif; color: #ff69b4; font-size: 2.5em;">
+<h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #ff7f50; font-size: 2.5em;">
   📫 How to Reach Me
 </h2>
 <div align="center">
   <a href="mailto:tusharpandharetp@gmail.com">
-    <img src="https://img.shields.io/badge/-tusharpandharetp@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tusharpandharetp@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&size=30" />
   </a>
   <a href="https://www.linkedin.com/in/tushar-pandhare/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&size=30" />
   </a>
   <a href="https://leetcode.com/tushar-pandhare/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&size=30" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/tusharpandharetp/">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-1c844f?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-1c844f?style=flat-square&logo=GeeksforGeeks&logoColor=white&size=30" />
   </a>
   <a href="https://codolio.com/profile/Tushar%20Pandhare">
-    <img src="https://img.shields.io/badge/-Codolio-1F75FE?style=flat-square&logo=Codolio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Codolio-1F75FE?style=flat-square&logo=Codolio&logoColor=white&size=30" />
   </a>
 </div>
 
