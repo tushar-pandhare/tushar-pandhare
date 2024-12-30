@@ -42,7 +42,7 @@
 <ul style="font-size: 1.5em;">
   <li>🏆 First in <strong>Paper Presentation</strong> and <strong>Project Presentation</strong> at the institute level.</li>
   <li>🎓 Diploma in Computer Technology with an aggregate of <strong>94.06%</strong>.</li>
-  <li>🥇 Completed a <strong>50-day coding streak</strong> on GeeksforGeeks and LeetCode.</li>
+  <li>🥇 Completed a <strong>100+ day coding streak</strong> on GeeksforGeeks and LeetCode.</li>
 </ul>
 
 ---
