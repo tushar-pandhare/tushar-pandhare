@@ -1,5 +1,5 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #36BCF7; font-size: 3em;">
-  Hi there! 👋 I'm Tushar Pandhare
+<h1 align="center" style="font-family: 'Times New Roman', Times, serif; color: #2E8B57; font-size: 3.5em; font-weight: bold;">
+  Hi there! 👋 I'm <span style="color: #D2691E;">Tushar Pandhare</span>
 </h1>
 
 <div align="center">
@@ -51,9 +51,9 @@
   📈 GitHub Stats
 </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 75%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" style="width: 75%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" style="width: 75%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 75%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical" alt="GitHub Streak" style="width: 75%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-pandhare&layout=compact&theme=radical" alt="Top Languages" style="width: 75%;" />
 </div>
 
 ---
@@ -62,9 +62,9 @@
   🎯 Projects
 </h2>
 <ul style="font-size: 1.5em;">
-  <li>🌟 <a href="https://github.com/your-github-username/SwiftCare"><strong>SwiftCare: Hospital Queue Management System</strong></a> - A system for managing hospital appointments efficiently.</li>
-  <li>🌟 <a href="https://github.com/your-github-username/Student-Future-Predictor"><strong>Student Future Predictor</strong></a> - A machine learning project for career guidance.</li>
-  <li>🌟 <a href="https://github.com/your-github-username/Analysis-for-Dropper-Students"><strong>Analysis for Dropper Students</strong></a> - Providing data-driven insights for academic improvement.</li>
+  <li>🌟 <a href="https://github.com/tushar-pandhare/SwiftCare"><strong>SwiftCare: Hospital Queue Management System</strong></a> - A system for managing hospital appointments efficiently.</li>
+  <li>🌟 <a href="https://github.com/tushar-pandhare/Student-Future-Predictor"><strong>Student Future Predictor</strong></a> - A machine learning project for career guidance.</li>
+  <li>🌟 <a href="https://github.com/tushar-pandhare/Analysis-for-Dropper-Students"><strong>Analysis for Dropper Students</strong></a> - Providing data-driven insights for academic improvement.</li>
 </ul>
 
 ---
@@ -76,15 +76,24 @@
   <a href="mailto:tusharpandharetp@gmail.com">
     <img src="https://img.shields.io/badge/-tusharpandharetp@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <a href="https://www.linkedin.com/in/tushar-pandhare/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/tushar-pandhare/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/tusharpandharetp/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-1c844f?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/Tushar%20Pandhare">
+    <img src="https://img.shields.io/badge/-Codolio-1F75FE?style=flat-square&logo=Codolio&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive; color: #1e90ff; font-size: 2.5em;">
-  ✨ Fun Animations
+  ✨ CODER
 </h2>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600px" />
