@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical&hide_title=true&hide=prs" alt="GitHub Stats" width="400px" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical" alt="GitHub Streak" width="400px" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical" alt="GitHub Streak" width="400px" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-pandhare&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="400px" />
 </div>
 
