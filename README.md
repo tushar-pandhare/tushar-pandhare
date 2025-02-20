@@ -34,7 +34,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science Engineering** at **SGGS Institute of Engineering & Technology** 
-- 🎓 **Diploma in Computer Technology** (94.06% Aggregate) 
+- 🎓 **Diploma in Computer Technology** (96.71% Aggregate) 
 - 💻 **Full-stack developer** with **ML integration** expertise 
 - 🏆 **2+ years of competitive programming** | **CodeForces Specialist (Max Rating: 1420)** 
 - 📈 **1000+ problems solved** on **LeetCode & GeeksforGeeks** 
