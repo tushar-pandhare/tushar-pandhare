@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-![Typing Animation Header](https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=950&lines=🚀+Full-Stack+Developer+%7C+ML+Enthusiast;🏆+Competitive+Programmer+%7C+CF+Specialist;🔥+MERN+Stack+%7C+Next.js+%7C+Vite;💻+C+%7C+C++%7C+Python+%7C+JavaScript+%7C+PHP;📊+MySQL+%7C+MongoDB+%7C+PostgreSQL;🛠️+Git+%7C+Docker+%7C+Firebase+%7C+Linux;🌱+AI+%7C+Cloud+%7C+System+Design;⚡+444+%2B+DSA+Problems+Solved;🎓+Completed+Diploma+Aggregate:+94.71%+%7C+pursuing+B.Tech+CSE+@+SGGS;💡+Always+Exploring+New+Tech!)
+![Typing Animation Header](https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=950&lines=🚀+Full-Stack+Developer+%7C+ML+Enthusiast;🏆+Competitive+Programmer+%7C+CF+Specialist;🔥+MERN+Stack+%7C+Next.js+%7C+Vite;💻+C+%7C+C++%7C+Python+%7C+JavaScript+%7C+PHP;📊+MySQL+%7C+MongoDB+%7C+PostgreSQL;🛠️+Git+%7C+Docker+%7C+Firebase+%7C+Linux;🌱+AI+%7C+Cloud+%7C+System+Design;⚡+880+%2B+DSA+Problems+Solved;🎓+Completed+Diploma+Aggregate:+96.71%+%7C+pursuing+B.Tech+CSE+@+SGGS;💡+Always+Exploring+New+Tech!)
 
 
 <p align="center">
