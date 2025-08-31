@@ -1,114 +1,115 @@
+<!-- Tushar Pandhare | GitHub Profile README -->
 <p align="center">
-  <h1 align="center">
-  👋 Hello! I'm Tushar Balasaheb Pandhare
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=39e678&center=true&vCenter=true&width=950&lines=Hi+there,+I'm+Tushar%20👋;Full-Stack+Developer%20🚀;ML+Enthusiast%20🤖;Competitive+Programmer%20💻;MERN+Stack%20⚛️;CPP|Java|Python|JavaScript%20🛠️;MySQL|MongoDB%20💾;Git|VS+Code|Cloudinary%20⚙️;ML+Algorithms|DSA%20📚;🎓+Diploma:+96.71%25|B.Tech+CSE%20🎓;💡+Always+Learning%20✨" alt="Typing Animation Header with Emojis"/>
 </p>
 
-![Typing Animation Header](https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=950&lines=🚀+Full-Stack+Developer+%7C+ML+Enthusiast;🏆+Competitive+Programmer+%7C+CF+Specialist;🔥+MERN+Stack+%7C+Next.js+%7C+Vite;💻+C+%7C+C++%7C+Python+%7C+JavaScript+%7C+PHP;📊+MySQL+%7C+MongoDB+%7C+PostgreSQL;🛠️+Git+%7C+Docker+%7C+Firebase+%7C+Linux;🌱+AI+%7C+Cloud+%7C+System+Design;⚡+880+%2B+DSA+Problems+Solved;🎓+Completed+Diploma+Aggregate:+96.71%+%7C+pursuing+B.Tech+CSE+@+SGGS;💡+Always+Exploring+New+Tech!)
-
-
-<p align="center">
-  🎓 B.Tech CSE | 💻 Full-Stack Developer | 🤖 ML Enthusiast | 🚀 Competitive Programmer
-</p>
-
-<p align="center">
-  <a href="mailto:tusharpandharetp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<!-- Enlarged Badges (Profile Views, LeetCode, LinkedIn, Gmail) -->
+<p align="center" style="zoom:1.6;">
+  <img src="https://komarev.com/ghpvc/?username=tushar-pandhare&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://leetcode.com/tushar-pandhare/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tushar-pandhare/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/tushar-pandhare/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/tushar-pandhare">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 **B.Tech in Computer Science Engineering** at **SGGS Institute of Engineering & Technology** 
-- 🎓 **Diploma in Computer Technology** (96.71% Aggregate) 
-- 💻 **Full-stack developer** with **ML integration** expertise 
-- 🏆 **2+ years of competitive programming** | **CodeForces Specialist (Max Rating: 1420)** 
-- 📈 **1000+ problems solved** on **LeetCode & GeeksforGeeks** 
-- 🔥 **100+ day coding streak** on **LeetCode** 
-- 🏅 **Institute-level winner** in **Paper & Project Presentation** on "AI in Healthcare," showcasing innovative solutions for patient care.
-- 🌱 Currently learning: **Advanced System Design & Generative AI** 
-- ⚡ **Fun fact:** I once optimized an algorithm from **O(n²) to O(n log n)!** 
-
----
-
-## 🚀 Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C Language"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Language"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Language"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java Language"/>
-</p>
-
-### Web Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> 
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
----
-
-## 🔥 Notable Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[SwiftCare](https://github.com/tushar-pandhare/SwiftCare)** | Hospital queue management system reducing wait times by 40% | PHP, MySQL, JavaScript |
-| **[Student Future Predictor](https://github.com/tushar-pandhare/Student-Future-Predictor)** | ML-powered career guidance system with 85% accuracy | Python, Scikit-learn, Flask |
-| **[Dropper Analysis](https://github.com/tushar-pandhare/Analysis-for-Dropper-Students)** | Data-driven academic improvement insights platform | Pandas, Matplotlib, Jupyter |
-
----
-
-## 📊 GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical" width="49%" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar-pandhare&color=blueviolet" alt="Profile views" />
-</p>
-
----
-
-## 📫 Connect With Me 
-<p align="center">
   <a href="mailto:tusharpandharetp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-pandhare/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/tushar-pandhare/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/tushar-pandhare">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-Thank you for visiting my profile! Feel free to connect with me through any of the platforms above. I'm always open to discussing new projects, ideas, or opportunities!
+## About Me
+
+Motivated and detail-oriented aspiring software engineer, currently pursuing B.Tech in Computer Science & Engineering at SGGS IE&T, Nanded. With top ranks in diploma, strong foundations in full-stack web development and machine learning, and proven leadership in open-source projects and coding clubs, I thrive on building impactful solutions and helping others learn and grow.
+
+---
+
+## Work Experience
+
+| Position           | Organization                    | Duration                | Key Responsibilities                      |
+|--------------------|---------------------------------|-------------------------|-------------------------------------------|
+| Frontend Intern    | Sunanda Infotech Pvt. Ltd.      | Jun–Aug 2024            | Built responsive UIs; frontend & MySQL    |
+| Open Source Contrib| GSSoC & OSCI                    | Jul 2025–Present        | UI/UX, bug fixes, collaboration           |
+| Project Developer  | Om Sai Industries               | Aug 2025–Present        | Online publicity platform, stakeholder comm|
+| President          | SPARK Club, SGGS IE&T           | Aug 2025–Present        | Managed 200+ students, events, mentorship |
+
+---
+
+## Education
+
+| Degree                     | Institute                             | Year         | Result / Rank   |
+|----------------------------|---------------------------------------|--------------|-----------------|
+| B.Tech in CSE              | SGGS IE&T, Nanded                     | 2024–2027    | CGPA: 9.04/10   |
+| Diploma in Comp Technology | SNJB’s S.H.H.J.B. Polytechnic, Chandwad| 2020–2023    | 96.71%, Rank-1  |
+
+---
+
+## Projects
+
+| Project                               | Description                                                                                           |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Career Path Predictor (ML Project)     | ML model for predicting student career paths; top institute project                                    |
+| Alumni Network Platform (MERN Stack)   | Full-stack platform, auth, profile mgmt, Cloudinary integration                                        |
+| Om Sai Industries Online Publicity     | Web solution for online presence, brand visibility and digital ads for the company                     |
+
+---
+
+## Tech Stack
+
+| Category      | Technology                                      |
+|---------------|-------------------------------------------------|
+| Languages     | Java, Python, C++                               |
+| Web           | HTML, CSS, JavaScript, React.js, Node.js, Express.js |
+| Databases     | MySQL, MongoDB                                  |
+| Tools/Platforms| Git, GitHub, VS Code, Cloudinary, Jupyter Notebook, Google Colab |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
+## Achievements & Certifications
+
+| Achievement/Certification           | Details                                  |
+|-------------------------------------|------------------------------------------|
+| 1st Rank (Diploma in Comp Technology)| Category Rank 11, Gen Rank 2047 (MH)    |
+| Generative AI Certification         | -                                       |
+| AI Tools for Development Certification| -                                      |
+| Solved 700+ coding problems         | GeeksforGeeks and LeetCode               |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical" alt="github stats"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical"/> 
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tushar-pandhare&theme=radical&margin-w=10&margin-h=10&column=7" alt="github trophies"/>
+</p>
+
+---
+
+## Quotes
+
+> "The best way to predict the future is to invent it." – Alan Kay  
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> "First, solve the problem. Then, write the code." – John Johnson  
