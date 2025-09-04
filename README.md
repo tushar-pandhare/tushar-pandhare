@@ -1,4 +1,6 @@
 <!-- Tushar Pandhare | GitHub Profile README -->
+<!-- Tushar-Pandhare Github  -->
+<!-- Github tushar-pandhare-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=39e678&center=true&vCenter=true&width=950&lines=Hi+there,+I'm+Tushar%20👋;Full-Stack+Developer%20🚀;ML+Enthusiast%20🤖;Competitive+Programmer%20💻;MERN+Stack%20⚛️;CPP|Java|Python|JavaScript%20🛠️;MySQL|MongoDB%20💾;Git|VS+Code|Cloudinary%20⚙️;ML+Algorithms|DSA%20📚;🎓+Diploma:+96.71%25|B.Tech+CSE%20🎓;💡+Always+Learning%20✨" alt="Typing Animation Header with Emojis"/>
 </p>
