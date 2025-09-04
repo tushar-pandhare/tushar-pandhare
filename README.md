@@ -101,8 +101,8 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical" alt="github stats"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical"/> 
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical" alt="github stats"/>  -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical"/>  -->
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tushar-pandhare&theme=radical&margin-w=10&margin-h=10&column=7" alt="github trophies"/>
