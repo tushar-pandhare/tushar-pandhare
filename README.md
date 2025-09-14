@@ -92,7 +92,7 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 
 | Achievement/Certification           | Details                                  |
 |-------------------------------------|------------------------------------------|
-| 1st Rank (Diploma in Comp Technology)| Category Rank 11, Gen Rank 2047 (MH)    |
+| 1st Rank (Diploma in Comp Technology)| Category Rank 11, Gen Rank 470  (MH)    |
 | Generative AI Certification         | -                                       |
 | AI Tools for Development Certification| -                                      |
 | Solved 700+ coding problems         | GeeksforGeeks and LeetCode               |
