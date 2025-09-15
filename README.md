@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/tushar-pandhare/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tushar-pandhare/">
+  <a href="https://www.linkedin.com/in/tusharpandhare/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tusharpandharetp@gmail.com">
