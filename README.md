@@ -33,7 +33,7 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 | Position           | Organization                    | Duration                | Key Responsibilities                      |
 |--------------------|---------------------------------|-------------------------|------------------------------------------- |
 | Frontend Intern    | Sunanda Infotech Pvt. Ltd.      | Jun–Aug 2024            | Built responsive UIs; frontend & MySQL     |
-| Open Source Contrib| GSSoC & OSCI                    | Jul 2025–Present        | UI/UX, bug fixes, collaboration            |
+| Open Source Contributor| GSSoC & OSCI                    | Jul 2025–Present        | UI/UX, bug fixes, collaboration            |
 | Project Developer  | Om Sai Industries               | Aug 2025–Present        | Online publicity platform, stakeholder com.|
 | President          | SPARK Club, SGGS IE&T           | Aug 2025–Present        | Managed 200+ students, events, mentorship |
 
