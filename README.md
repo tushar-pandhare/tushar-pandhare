@@ -1,13 +1,9 @@
-<!-- Tushar Pandhare | GitHub Profile README -->
-<!-- Tushar-Pandhare Github  -->
-<!-- Github tushar-pandhare-->
-<!-- Thank Uh-->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=39e678&center=true&vCenter=true&width=950&lines=Hi+there,+I'm+Tushar%20👋;Full-Stack+Developer%20🚀;ML+Enthusiast%20🤖;Competitive+Programmer%20💻;MERN+Stack%20⚛️;CPP|Java|Python|JavaScript%20🛠️;MySQL|MongoDB%20💾;Git|VS+Code|Cloudinary%20⚙️;ML+Algorithms|DSA%20📚;🎓+Diploma:+96.71%25|B.Tech+CSE%20🎓;💡+Always+Learning%20✨" alt="Typing Animation Header with Emojis"/>
 </p>
 
 <!-- Enlarged Badges (Profile Views, LeetCode, LinkedIn, Gmail) -->
-<p align="center" style="zoom:1.6;">
+<!-- <p align="center" style="zoom:1.6;">
   <img src="https://komarev.com/ghpvc/?username=tushar-pandhare&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <a href="https://leetcode.com/tushar-pandhare/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
@@ -20,9 +16,9 @@
   </a>
 </p>
 
----
+--- -->
 
-## About Me
+<!-- ## About Me
 
 Motivated and detail-oriented aspiring software engineer, currently pursuing B.Tech in Computer Science & Engineering at SGGS IE&T, Nanded. With top ranks in diploma, strong foundations in full-stack web development and machine learning, and proven leadership in open-source projects and coding clubs, I thrive on building impactful solutions and helping others learn and grow.
 
@@ -104,4 +100,64 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 
 > "The best way to predict the future is to invent it." – Alan Kay  
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-> "First, solve the problem. Then, write the code." – John Johnson  
+> "First, solve the problem. Then, write the code." – John Johnson   -->
+
+
+<h1 align="center">Hi 👋, I'm Tushar Pandhare</h1>
+<h3 align="center">Full-Stack Developer | ML Enthusiast | DSA Practitioner</h3>
+
+<p align="center">
+🎓 B.Tech CSE (CGPA: 9.04) &nbsp; | &nbsp; 🏆 Diploma Topper – 96.71%
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+💻 **Languages:** Java • C++ • Python  
+🌐 **Web:** HTML • CSS • JavaScript • React • Node.js • Express  
+🗄️ **Database:** MySQL • MongoDB  
+🛠️ **Tools:** Git • GitHub • VS Code  
+
+</p>
+
+---
+
+## 📌 Projects
+
+### 🔹 DocuGen
+Automated document generation system for creating structured documents dynamically.
+
+### 🔹 Automated College Management System
+Full-stack application to manage students, faculty, attendance, and academic records efficiently.
+
+### 🔹 Career Path Predictor
+Machine Learning model that predicts student career paths based on performance data.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Rank in Diploma (Computer Technology)  
+- 💻 Solved **900+ DSA problems** across coding platforms  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://leetcode.com/tushar-pandhare/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tusharpandhare/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tusharpandharetp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
