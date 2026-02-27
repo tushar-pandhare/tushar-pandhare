@@ -119,7 +119,7 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 💻 **Languages:** Java • C++ • Python  
 🌐 **Web:** HTML • CSS • JavaScript • React • Node.js • Express  
 🗄️ **Database:** MySQL • MongoDB  
-🛠️ **Tools:** Git • GitHub • VS Code  
+🛠️ **Tools:** Git • GitHub • VS Code 
 
 </p>
 
