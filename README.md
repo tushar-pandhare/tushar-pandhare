@@ -102,62 +102,75 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 > "First, solve the problem. Then, write the code." – John Johnson   -->
 
+<div align="center">
+  
+# Tushar Pandhare
+  
+**`Full-Stack Developer | ML Enthusiast | DSA Practitioner`**
 
-<h1 align="center">Hi 👋, I'm Tushar Pandhare</h1>
-<h3 align="center">Full-Stack Developer | ML Enthusiast | DSA Practitioner</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharpandhare/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/tushar-pandhare/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharpandharetp@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tushar-pandhare)
+
+</div>
+
+---
+
+### 📋 About
+
+> Computer Science Engineering student passionate about building impactful applications and solving real-world problems through code.
+
+| 📚 Education | 🏆 Achievement |
+|--------------|----------------|
+| B.Tech CSE - CGPA: **9.04** | Diploma Topper - **96.71%** |
+| **900+** DSA problems solved | Consistent top performer |
+
+---
+
+### 🛠️ Tech Stack
+Java │ C++ │ Python │ JavaScript
+React │ Node.js │ Express │ MongoDB
+MySQL │ Git │ GitHub │ VS Code
+
+
+---
+
+### 📁 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <b>📄 DocuGen</b><br>
+      Automated document generation system<br>
+      <a href="https://github.com/tushar-pandhare/DocuGen">→ GitHub</a>
+    </td>
+    <td width="33%">
+      <b>🏫 Paperless College</b><br>
+      Full-stack academic management app<br>
+      <a href="https://github.com/tushar-pandhare/Alumni-Network-Platform">→ GitHub</a>
+    </td>
+    <td width="33%">
+      <b>🎯 Career Path Predictor</b><br>
+      ML model for student career prediction<br>
+      <a href="https://github.com/tushar-pandhare/Career_Path_Predictor_For_Students">→ GitHub</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-🎓 B.Tech CSE (CGPA: 9.04) &nbsp; | &nbsp; 🏆 Diploma Topper – 96.71%
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-pandhare&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-pandhare&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-
-💻 **Languages:** Java • C++ • Python  
-🌐 **Web:** JavaScript • React • Node.js • Express  
-🗄️ **Database:** MySQL • MongoDB  
-🛠️ **Tools:** Git • GitHub • VS Code 
-
-</p>
-
----
-
-## 📌 Projects
-
-### 🔹 DocuGen
-Automated document generation system for creating structured documents dynamically.
-
-### 🔹 Automated College Management System
-Full-stack application to manage students, faculty, attendance, and academic records efficiently.
-
-### 🔹 Career Path Predictor
-Machine Learning model that predicts student career paths based on performance data.
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Rank in Diploma (Computer Technology)  
-- 💻 Solved **900+ DSA problems** across coding platforms  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://leetcode.com/tushar-pandhare/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tusharpandhare/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tusharpandharetp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-
+<div align="center">
+  
+**⭐ Star the projects you like | Let's connect and collaborate ⭐**
+  
+</div>
