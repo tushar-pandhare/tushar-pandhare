@@ -123,7 +123,7 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 
 | 📚 Education | 🏆 Achievement |
 |--------------|----------------|
-| B.Tech CSE - CGPA: **9.04** | Diploma Topper - **96.71%** |
+| B.Tech CSE - CGPA: **8.8** | Diploma Topper - **96.71%** |
 | **900+** DSA problems solved | Consistent top performer |
 
 ---
