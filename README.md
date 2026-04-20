@@ -103,8 +103,7 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 > "First, solve the problem. Then, write the code." – John Johnson   -->
 
 <div align="center">
-  
-# Tushar Pandhare
+
   
 **`Full-Stack Developer | ML Enthusiast | DSA Practitioner`**
 
