@@ -115,6 +115,8 @@ Motivated and detail-oriented aspiring software engineer, currently pursuing B.T
 
 </div>
 
+
+<!--
 ---
 
 ### 📋 About
@@ -174,3 +176,4 @@ MySQL │ Git │ GitHub │ VS Code
 **⭐ Star the projects you like | Let's connect and collaborate ⭐**
   
 </div>
+-->
