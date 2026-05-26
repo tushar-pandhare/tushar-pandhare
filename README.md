@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tushar Pandhare
+# Tusharr Pandhare
 
 ** Developer · ML · DSA **
 
