@@ -2,7 +2,7 @@
 
 # Tushar Pandhare
 
-**Developer · ML · DSA**
+** Developer · ML · DSA **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharpandhare/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/tushar-pandhare/)
@@ -17,7 +17,7 @@ B.Tech Computer Science and Engineering Student, building production ready appli
 <br />
 Strong in DSA — consistent solver on LeetCode and GFG.
 <br />
-Open to **SDE internships and full-time roles**.
+Open to **SDE roles**.
 
 ---
 
