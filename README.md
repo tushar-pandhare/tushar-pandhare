@@ -2,7 +2,7 @@
 
 # Tusharr Pandhare
 
-** Developer · ML · DSA **
+* Developer · ML · DSA *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharpandhare/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/tushar-pandhare/)
