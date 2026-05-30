@@ -50,7 +50,7 @@ Open to **SDE roles**.
 
 <div align="center">
 
-*Check the pinned repositories below ↓*
+*Check the pinned repositories below! ↓*
 
 ![Profile views](https://komarev.com/ghpvc/?username=tushar-pandhare&color=blue&style=flat-square)
 
