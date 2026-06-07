@@ -93,7 +93,7 @@ const tushar = {
 
 ## 🚀 Featured Projects
 
-### 🤖 DocuGen — AI-Powered Document Platform
+### 🤖 DocuGen — AI-Powered Document Platform — [`repo ↗`](https://github.com/tushar-pandhare/DocuGen)
 > MERN · OCR · GPT-4 · Claude · Gemini · Grok · Google Drive · Tesseract
 
 Smart document generation platform with multi-AI assistant support. Handles OCR text extraction, PDF conversion, invoice generation, and Google Drive integration. Integrates four AI models for intelligent document processing.
@@ -120,7 +120,7 @@ Transparency-focused digital college administration system with modules for Stud
 
 ---
 
-### 🔮 Career Path Predictor — [`repo ↗`]([https://github.com/tushar-pandhare/Local-File-Search-Engine](https://github.com/tushar-pandhare/Career_Path_Predictor_For_Students))
+### 🔮 Career Path Predictor — [`repo ↗`](https://github.com/tushar-pandhare/Career_Path_Predictor_For_Students)
 > Python · Scikit-learn · Random Forest · SVM · Streamlit
 
 ML platform predicting student career paths trained on 5000+ records. Uses ensemble methods (Random Forest, SVM, Decision Trees) with a Streamlit recommendation dashboard.
